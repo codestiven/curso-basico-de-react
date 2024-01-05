@@ -68,3 +68,9 @@ Este curso está diseñado para:
 - Casi completamente autodidacta, dispuesto a compartir conocimientos para facilitar tu aprendizaje.
 
 Para más detalles y para unirte al curso, visita [Curso Básico de React - Udemy](https://www.udemy.com/course/curso-de-react-js-desde-cero-gratis). ¡Eleva tus habilidades en React.js con este curso práctico y accesible!
+
+## Continúa tu Viaje en React
+
+Si estás listo para profundizar en React y convertirte en un desarrollador más competente, te invito a unirte al Curso Avanzado de React. Puedes acceder al curso [aquí](https://www.udemy.com/course/master-en-react-aprender-reactjs-hooks-mern-nodejs-jwt/?couponCode=DICIEMBRE23) utilizando el código de cupón DICIEMBRE23.
+
+¡Eleva tus habilidades en React.js y continúa construyendo aplicaciones web increíbles! ¡Éxito en tu viaje de aprendizaje!
