@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+# Curso Básico de React - Empieza con este framework JS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Descripción del Curso
 
-## Available Scripts
+¡Bienvenido al Curso Básico de Introducción a React! En este curso gratuito en Udemy, impartido por Víctor Robles, te sumergirás en los fundamentos esenciales de React.js, el popular framework/librería para JavaScript utilizado en el desarrollo de aplicaciones web SPA (Single Page Application).
 
-In the project directory, you can run:
+### Detalles del Curso
 
-### `npm start`
+- **Nivel de Habilidad:** Todos los niveles
+- **Estudiantes:** 7966
+- **Idiomas:** Español
+- **Subtítulos:** Sí
+- **Clases:** 7
+- **Duración del Vídeo:** 36 minutos en total
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Características
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Disponible en iOS y Android
+- Enfoque práctico y paso a paso
+- Instalación, Componentes, Hooks y más
 
-### `npm test`
+## Contenido del Curso
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Durante este curso, aprenderás los conceptos fundamentales de React desde cero, guiado por Víctor Robles. Los temas cubiertos incluyen:
 
-### `npm run build`
+- **Instalación de React:** Configuración inicial para empezar a trabajar.
+  
+- **Trabajo Básico con Hooks de React:** Comprender y utilizar los hooks esenciales en React.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Trabajo Básico con las Plantillas de React:** Explorar la creación y manipulación de plantillas con JSX.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Lo Básico de JSX:** Entender y trabajar con la sintaxis JSX para crear interfaces de usuario de manera eficiente.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Utilización de Componentes de React JS:** Aprender a crear y utilizar componentes para modularizar tu código.
 
-### `npm run eject`
+- **Conocimiento de las Bases del Framework:** Obtener una comprensión sólida de los principios fundamentales de React.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Requisitos del Curso
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Antes de comenzar, asegúrate de cumplir con los siguientes requisitos:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- **Saber utilizar un sistema operativo**
+  
+- **Tener un editor de código instalado**
+  
+- **Conocimientos básicos de HTML y JavaScript**
+  
+- **NO es necesario tener experiencia previa en React ni en otros frameworks**
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Audiencia Objetivo
 
-## Learn More
+Este curso está diseñado para:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Desarrolladores web en busca de ampliar sus habilidades.
+  
+- Estudiantes de informática, ciclos formativos e ingeniería.
+  
+- Apasionados por la programación interesados en React y frameworks modernos.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Instructor
 
-### Code Splitting
+**Víctor Robles**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Desarrollador web con experiencia en el campo.
+  
+- Apasionado por la programación y las nuevas tecnologías.
+  
+- Casi completamente autodidacta, dispuesto a compartir conocimientos para facilitar tu aprendizaje.
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Para más detalles y para unirte al curso, visita [Curso Básico de React - Udemy](https://www.udemy.com/course/curso-de-react-js-desde-cero-gratis). ¡Eleva tus habilidades en React.js con este curso práctico y accesible!
